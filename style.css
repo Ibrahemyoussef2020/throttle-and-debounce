@@ -1,0 +1,12 @@
+body{
+    background: #eee;
+}
+
+.flex{
+    display: flex;
+}
+
+p{
+    font-size: 1.5rem;
+    color: green;
+}
